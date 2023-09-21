@@ -1,0 +1,7 @@
+Q1. Start your TCP client application without the TCP server running. What happens? Why?
+
+Ans: I got "Connection Failed" error because there were no servers to connect for client.
+
+Q2. Start your UDP client application without the UDP server running. What happens? Why?
+
+Ans: 
